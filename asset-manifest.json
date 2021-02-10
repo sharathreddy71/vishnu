@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vishnu/static/css/main.8f551845.chunk.css",
+    "main.js": "/vishnu/static/js/main.e99ab134.chunk.js",
+    "main.js.map": "/vishnu/static/js/main.e99ab134.chunk.js.map",
+    "runtime-main.js": "/vishnu/static/js/runtime-main.f40ff93a.js",
+    "runtime-main.js.map": "/vishnu/static/js/runtime-main.f40ff93a.js.map",
+    "static/css/2.55d8add8.chunk.css": "/vishnu/static/css/2.55d8add8.chunk.css",
+    "static/js/2.2d8e297b.chunk.js": "/vishnu/static/js/2.2d8e297b.chunk.js",
+    "static/js/2.2d8e297b.chunk.js.map": "/vishnu/static/js/2.2d8e297b.chunk.js.map",
+    "index.html": "/vishnu/index.html",
+    "static/css/2.55d8add8.chunk.css.map": "/vishnu/static/css/2.55d8add8.chunk.css.map",
+    "static/css/main.8f551845.chunk.css.map": "/vishnu/static/css/main.8f551845.chunk.css.map",
+    "static/js/2.2d8e297b.chunk.js.LICENSE.txt": "/vishnu/static/js/2.2d8e297b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f40ff93a.js",
+    "static/css/2.55d8add8.chunk.css",
+    "static/js/2.2d8e297b.chunk.js",
+    "static/css/main.8f551845.chunk.css",
+    "static/js/main.e99ab134.chunk.js"
+  ]
+}
